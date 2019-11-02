@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=cppapplication_7
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/cppapplication_7
+CND_ARTIFACT_NAME_Debug=cppapp7
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/cppapp7
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=cppapplication7.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/cppapplication7.tar
+CND_PACKAGE_NAME_Debug=cppapp7.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/cppapp7.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=cppapplication_7
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/cppapplication_7
+CND_ARTIFACT_NAME_Release=cppapp7
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/cppapp7
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=cppapplication7.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/cppapplication7.tar
+CND_PACKAGE_NAME_Release=cppapp7.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/cppapp7.tar
 #
 # include compiler specific variables
 #
